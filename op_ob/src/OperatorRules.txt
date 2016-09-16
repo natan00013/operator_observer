@@ -1,0 +1,2 @@
+LastCook=>Eat
+Time23=>Sleep

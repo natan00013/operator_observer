@@ -1,0 +1,7 @@
+Kitchen,Set_the_table>Eat>1 
+Kitchen,Work,Use_Utensils>Cook>1
+Living_room,Turn_on_TV,Sit_down>Watch_the_TV>2
+Living_room,Turn_on_TV,Sit_down>Fall_asleep_in_front_of_the_TV>10
+Bedroom,Turn_off_the_light,Activate_Alarm>Sleep>10
+Bedroom,Turn_off_the_light,Outside>Go_out>4
+Bathroom,Prepare>Take_a_shower>1
