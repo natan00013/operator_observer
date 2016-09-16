@@ -7,8 +7,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 import javax.swing.JTextArea;
-
-
 public class Environment {
 
 	public enum Room {Kitchen, Bathroom, Bedroom, Living_room, Outside};
